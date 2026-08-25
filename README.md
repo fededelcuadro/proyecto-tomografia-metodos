@@ -17,3 +17,4 @@ Trabajo Práctico de Métodos Computacionales, S2 2026.
 - Matplotlib
 
 Los notebooks deben poder ejecutarse de principio a fin sin errores.
+Prueba de push desde VS Code.
