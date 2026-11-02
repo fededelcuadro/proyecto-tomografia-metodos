@@ -1,18 +1,18 @@
 USO DE IA GENERATIVA
 
-Herramienta utilizada: ChatGPT / Codex.
+Herramienta utilizada: ChatGPT.
 
 Utilizamos IA para entender conceptos y funciones de las bibliotecas, consultar
 errores y mejorar la presentación de los resultados. Por ejemplo, cómo presentar los 
 resultados mediante tablas y gráficos, que nos sirivieron luego para poder realizar las
-comparaciones y sacar conclusiones, además de recibir asistencia para escribir y editar
+comparaciones y sacar conclusiones. Ademá, para recibir asistencia para escribir y editar
 las fórmulas que consideramos necesarias incluir dentro de los comentarios markdown. 
-Pedimos explicaciones sobre lo que hacen algunas funciones y ayuda para entender, adapatar
+Por último, pedimos explicaciones sobre lo que hacen algunas funciones y ayuda para adaptar 
 y corregir bloques de código.
 
 Ejercicio 4:
 El inciso c fue donde más consultas hicimos dentro de este ejercicio. La utilizamos
-para conocer la funcinalidades de np.linalg.También consultamos cómo mostrar el fantoma,
+para conocer la funcinalidades de np.linalg.svd. También consultamos cómo mostrar el fantoma,
 el vector v y la imagen alternativa usando una misma escala de grises, para comparar los 
 cambios que no se detectan en las mediciones.
 
@@ -28,10 +28,9 @@ mostrarlas en una grilla con una escala común.
 
 Ejercicio 8:
 Consultamos cómo registrar y graficar el costo y la norma del gradiente para comparar
-las tasas de aprendizaje. Recibimos ayuda para comparar gradiente
-descendiente y Newton y sus reconstrucciones con lstsq. Pedimos
-explicaciones sobre la inestabilidad de algunas tasas y sobre por qué Newton llega
-al mínimo en una sola iteración en este problema.
+las tasas de aprendizaje. Recibimos ayuda para comparar gradiente descendiente y Newton 
+y sus reconstrucciones con lstsq. Pedimos explicaciones sobre la inestabilidad de algunas
+tasas y sobre por qué Newton llega al mínimo en una sola iteración en este problema.
 
 Ejercicio 9:
 Usamos IA para entender la construcción de la matriz D y el efecto de lambda.
